@@ -23,7 +23,7 @@ Aplicación de escritorio en Java (Swing + JDBC) para registrar préstamos y dev
 
 1. En phpMyAdmin, importar `schema.sql` (crea la base `biblioteca`, las tablas y datos de ejemplo).
 2. En NetBeans: File → Open Project y elegir la carpeta `Biblioteca`.
-3. Si tu MySQL tiene contraseña, escribirla en `Config.java` (constante `CLAVE`). Es el único lugar. Con XAMPP suele estar vacía.
+3. Si tu MySQL tiene contraseña, en XAMPP suele estar vacía.
 4. Ejecutar la clase `Principal`.
 
 ## Archivos
